@@ -23,5 +23,5 @@ phrase
 end
 
 def pizza_party(phrase = "cheese")
-
+phrase
 end
